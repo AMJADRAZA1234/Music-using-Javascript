@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    background-color:white;
+    background-image: url("assets/images/raza12.jfif");
+    
+}
+
+
+h1{
+    font-size:5em;
+    font-family: "Arvo" , cursive;
+    color:white;
+    border: yellow;
+
+    background-image:url("assets/images/raza8.jfif")
+
+}
+
+
+
+title{
+
+    background-color: yellowgreen;
+    border: yellowgreen;
+}
+
+.s{
+    background-image: url("assets/images/raza1.jpg");
+}
+.r{
+    background-image: url("assets/images/raza4.jpg");
+}
+.g{
+    background-image: url("assets/images/raza2.jpg");
+}
+.m{
+    background-image: url("assets/images/raza3.jpg");
+}
+.p{
+    background-image: url("assets/images/raza5.jpg");
+}
+.d{
+    background-image: url("assets/images/raza6.jpg");
+}
+.n{
+    background-image: url("assets/images/raza7.png");
+}
+
+.drum{
+    width:130px;
+    height: 150px;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: crimson;
+    outline: olive;
+    border: 10px solid blue;
+    margin: 10px;
+    text-align: left;
+    background-color: green;
+    border-radius: 16px;
+
+
+   
+
+}
+.button {
+    transition-duration: 0.4s;
+  }
+  
+  
+  
+  
+  .pressed{
+
+    box-shadow: 0 40px 50px 5px #4fb430f5;
+    box-decoration-break: slice;
+    -moz-box-direction: unset;
+     
+    border-style: unset; 
+    border-right: yellow;
+   border-collapse: inherit;
+   border-spacing: unset;
+   border-bottom-width: thick;
+   border-image: 5em;
+    opacity: 0.9;
+    background-color: blue;
+    border-left: white;
+  }
+
